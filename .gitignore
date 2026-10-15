@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.log
